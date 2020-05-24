@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevCon", "DevCon\DevCon.csproj", "{716A319F-406C-480F-9FCC-E8CFE93F9225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPDotNet_CLI_Sample", "ASPDotNet_CLI_Sample\ASPDotNet_CLI_Sample.csproj", "{F822F27A-8C81-4910-8CAB-80C934ADEAB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{716A319F-406C-480F-9FCC-E8CFE93F9225}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{716A319F-406C-480F-9FCC-E8CFE93F9225}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{716A319F-406C-480F-9FCC-E8CFE93F9225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F822F27A-8C81-4910-8CAB-80C934ADEAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F822F27A-8C81-4910-8CAB-80C934ADEAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F822F27A-8C81-4910-8CAB-80C934ADEAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F822F27A-8C81-4910-8CAB-80C934ADEAB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F48B832F-3FBD-4CF1-B556-6A5A030DE57B}
 	EndGlobalSection
 EndGlobal
