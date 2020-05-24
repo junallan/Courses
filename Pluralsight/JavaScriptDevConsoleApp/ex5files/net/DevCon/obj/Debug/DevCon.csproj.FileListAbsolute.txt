@@ -1,0 +1,17 @@
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\DevCon.dll.config
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\DevCon.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\DevCon.pdb
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\Newtonsoft.Json.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\System.Net.Http.Formatting.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\System.Web.Http.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\System.Web.Http.WebHost.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\Newtonsoft.Json.xml
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\System.Net.Http.Formatting.xml
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\System.Web.Http.xml
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\System.Web.Http.WebHost.xml
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\obj\Debug\DevCon.csproj.CoreCompileInputs.cache
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\obj\Debug\DevCon.csproj.CopyComplete
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\obj\Debug\DevCon.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\obj\Debug\DevCon.pdb
