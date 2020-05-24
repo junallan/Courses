@@ -15,3 +15,16 @@ C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\obj\De
 C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\obj\Debug\DevCon.csproj.CopyComplete
 C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\obj\Debug\DevCon.dll
 C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\obj\Debug\DevCon.pdb
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\roslyn\csc.exe
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\roslyn\System.Collections.Immutable.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\roslyn\System.Reflection.Metadata.dll
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\roslyn\vbc.exe
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\roslyn\VBCSCompiler.exe
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\bin\roslyn\VBCSCompiler.exe.config
+C:\coding\courses\Pluralsight\JavaScriptDevConsoleApp\ex5files\net\DevCon\obj\Debug\DevCon.csprojAssemblyReference.cache
